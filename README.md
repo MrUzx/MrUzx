@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning FLUTTER
 - 
-- 👨‍💻 Connect with me [t.me/mr_uzx](https://t.me/mr_uzx)
+- 👨‍💻 Connect with me [mr_uzx](https://t.me/mr_uzx)
 - 
-- 📱 instagram [instagram.com/flutter.developer.uz](https://www.instagram.com/flutter.developer.uz)
+- 📱 instagram [flutter.developer.uz](https://www.instagram.com/flutter.developer.uz)
 - 
-- 🤝 My channel [t.me/flutter_developer_uz](https://t.me/flutter_developer_uz)
+- 🤝 My channel [flutter_developer_uz](https://t.me/flutter_developer_uz)
 - 
 - 💬 Ask me about FLUTTER & DART
 
