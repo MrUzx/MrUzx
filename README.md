@@ -9,7 +9,7 @@
 - 
 - 👨‍💻 Connect with me [t.me/mr_uzx](https://t.me/mr_uzx)
 - 
-- 📱 instagram [](https://www.instagram.com/flutter.developer.uz/?hl=ru)
+- 📱 instagram [www.instagram.com/flutter.developer.uz/?hl=ru](https://www.instagram.com/flutter.developer.uz/?hl=ru)
 - 
 - 🤝 My channel [t.me/flutter_developer_uz](https://t.me/flutter_developer_uz)
 - 
