@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Mr Uzx</h1>
 
-
+ <img align="right" width="400" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0WITIOrP-4CUIjJIMDC6Wk&ust=1714815854630000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCIiNuYCZ8YUDFQAAAAAdAAAAABAE" alt="uzxteam" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzxteam&label=Profile%20views&color=0e75b6&style=flat" alt="uzxteam" /> </p>
 
 
 - 🌱 I’m currently learning FLUTTER
