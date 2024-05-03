@@ -9,7 +9,7 @@
 - 
 - 👨‍💻 Connect with me ([t.me/mr_uzx](https://t.me/mr_uzx))
 - 
-- 🤝 My personal telegram channel ([t.me/flutter_developer_uz](https://t.me/flutter_developer_uz))
+- 🤝 My channel ([t.me/flutter_developer_uz](https://t.me/flutter_developer_uz))
 - 
 - 💬 Ask me about FLUTTER & DART
 
