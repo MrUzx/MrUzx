@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning FLUTTER
 - 
-- 👨‍💻 Connect with me [mr_uzx](https://t.me/Mr_SevenOne)
+- 👨‍💻 Connect with me [Mr_SevenOne](https://t.me/Mr_SevenOne)
 - 
 - 📱 instagram [flutter.developer.uz](https://www.instagram.com/flutter_developer_uz)
 - 
